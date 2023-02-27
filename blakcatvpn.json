@@ -4,13 +4,89 @@
 
 
 {
-         "name": "SG-DTAC-FREE1",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/SG-01-DTAC.ovpn"
+     
+ "name":
+"FREE-01-AIS.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-AIS.ovpn"
       }
 ,
 {
-         "name": "SG-DTAC-FREE2",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/SG-02-DTAC.ovpn"
+      
+  "name":
+"FREE-01-DTAC.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-DTAC.ovpn"
+      }
+,
+{
+        
+ "name":
+"FREE-01-TRUE.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-02-AIS.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-02-DTAC.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-02-TRUE.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-03-AIS.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-03-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-03-DTAC.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-03-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-03-TRUE.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-03-TRUE.ovpn"
+      }
+,
+{
+         "name": "VIP-Cat01-TH-DTAC.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-Cat01-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-Cat01-TH-TRUE.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-Cat01-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "VIP-TH-DTAC.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-TH-TRUE.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "VIP-ZCOM-AIS.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM-AIS.ovpn"
+      }
+,
+{
+         "name": "VIP-ZCOM-DTAC.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-ZCOM-TRUE.ovpn",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM-TRUE.ovpn"
       }
 
 
@@ -18,14 +94,14 @@
 "message":"
 🆓 แอพเน็ตฟรี Cocoa VPN  😸
      
-      🙏 ยินดีต้อนรับครับ 🙏 
+ 📢 + ระบบอัพเดทอัตโนมัติ + 📢
 
- 🆙 อัพเดท วันที่ 26-02-2023
+ 🆙 อัพเดท วันที่ 27-02-2023
 
 ------------------------------------------------------------------
 ❗ หมายเหตุ
  * รองรับการใช้งานทุกซิม
- * เซริฟเวอร์ฟรี สำหรับใช้งานทั่วไป ดูยูทูป และเล่นโซเชียล
+ * เซริฟเวอร์ฟรี สำหรับใช้งานทั่วไป ดูยูทูปเลือนๆ  และเล่นโซเชียล
  * เซริฟเวอร์สายเกมส์ แนะนำเซริฟเวอร์ VIP เน็ตแรงและปิงต่ำ
  
 🔥[ มีบริการเช่าเน็ต VIP นะครับ ]🔥
@@ -33,9 +109,7 @@
  📌ติดปัญหาอะไรสามารถ
  ติดต่อ-สอบถาม แอดมินได้นะครับ
  
-
-
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
