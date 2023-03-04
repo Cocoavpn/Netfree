@@ -26,17 +26,17 @@
 ,
 {
          "name": "FREE-02-AIS.ovpn",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-2-AIS.ovpn"
       }
 ,
 {
          "name": "FREE-02-DTAC.ovpn",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-2-DTAC.ovpn"
       }
 ,
 {
          "name": "FREE-02-TRUE.ovpn",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-2-TRUE.ovpn"
       }
 ,
 {
@@ -51,7 +51,7 @@
 ,
 {
          "name": "FREE-03-TRUE.ovpn",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-03-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-03-TRUE.ovpn.ovpn"
       }
 ,
 {
@@ -107,17 +107,15 @@
 
    ],
 "message":"
-🆓 แอพเน็ตฟรี Cocoa VPN  😸
-     
- 📢- ระบบอัพเดทอัตโนมัติ -📢
+🌎- ระบบอัพเดทอัตโนมัติ -🌎
+ 🆙 อัพเดท วันที่ 04-03-2023
 
- 🆙 อัพเดท วันที่ 3-03-2023
+🆓 แอพเน็ตฟรี COCOA VPN  😸
 
 🔥[ มีบริการเช่าเน็ต VIP นะครับ ]🔥
- 
- 📣สายเกมส์📱 📣สายประหยัด 💸
-      📢 ยินดีให้บริการครับ 🙏
-------------------------------------------------------------------
+ 📌สายเกมส์📱 📌สายประหยัด 💸
+       🙏 ยินดีให้บริการครับ 🙏
+
 ❗ หมายเหตุ❗
 
  * รองรับการใช้งานทุกซิม
@@ -132,5 +130,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":3
+   "version":4
 }
