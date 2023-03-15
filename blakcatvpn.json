@@ -6,27 +6,42 @@
 {
      
  "name":
-"FREE-AIS",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-AIS.ovpn"
+"FREE-SG-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-SG-AIS.ovpn"
       }
 ,
 {
       
   "name":
-"FREE-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-DTAC.ovpn"
+"FREE-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-SG-DTAC.ovpn"
       }
 ,
 {
         
  "name":
-"FREE-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TRUE.ovpn"
+"FREE-SG-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-SG-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TH-TRUE.ovpn"
       }
 ,
 {
          "name": "VIP-BANGMOD-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-BANGMOD-DTAC%20.ovpn"
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-BANGMOD-DTAC.ovpn"
       }
 ,
 {
@@ -68,11 +83,10 @@
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 15-03-2023
+ 🆙 อัพเดท วันที่ 16-03-2023
 
-📌เพิ่มเซริฟ Free ( ใช้งานฟรี )
+📌เพิ่มเซริฟ Free TH-SG ( ฟรี )
 📌เพิ่มเซริฟ VIP BANGMOD TH
-📌เพิ่มเซริฟ VIP ZCOM TH
 
 🔥[ มีบริการเช่าเน็ต VIP นะครับ ]🔥
    🙀 ราคาเพียงวันละ 1.50 บาท
@@ -86,12 +100,12 @@
  * เซริฟเวอร์สายเกมส์ แนะนำเซริฟเวอร์ VIP เน็ตแรงและปิงต่ำ
 
  📌ติดปัญหาอะไรหรือเช่าเน็ต VIP
- ติดต่อ-สอบถาม แอดมินนุวาร์ได้ครับ
+ ติดต่อ-สอบถาม แอดมินได้ครับ
   🌎ขอให้สนุกกับการใช้งาน🌎
  
 
 
-\n\nเวอร์ชั่นไฟล์:8",
+\n\nเวอร์ชั่นไฟล์:9",
 "title":"New Update File" ,
-   "version":8
+   "version":9
 }
