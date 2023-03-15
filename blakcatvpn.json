@@ -6,61 +6,61 @@
 {
      
  "name":
-"FREE-AIS.ovpn",
+"FREE-AIS",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-AIS.ovpn"
       }
 ,
 {
       
   "name":
-"FREE-DTAC.ovpn",
+"FREE-DTAC",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-DTAC.ovpn"
       }
 ,
 {
         
  "name":
-"FREE-TRUE.ovpn",
+"FREE-TRUE",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TRUE.ovpn"
       }
 ,
 {
-         "name": "VIP-BANGMOD-DTAC .ovpn",
+         "name": "VIP-BANGMOD-DTAC",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-BANGMOD-DTAC%20.ovpn"
       }
 ,
 {
-         "name": "VIP-BANGMOD-TRUE.ovpn",
+         "name": "VIP-BANGMOD-TRUE",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-BANGMOD-TRUE.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM01-AIS.ovpn",
+         "name": "VIP-ZCOM01-AIS",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM01-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM01-DTAC.ovpn",
+         "name": "VIP-ZCOM01-DTAC",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM01-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM01-TRUE.ovpn",
+         "name": "VIP-ZCOM01-TRUE",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM01-TH-TRUE.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM02-AIS.ovpn",
+         "name": "VIP-ZCOM02-AIS",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM02-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM02-DTAC.ovpn",
+         "name": "VIP-ZCOM02-DTAC",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM02-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM02-TRUE.ovpn",
+         "name": "VIP-ZCOM02-TRUE",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM02-TH-TRUE.ovpn"
       }
 
@@ -91,7 +91,7 @@
  
 
 
-\n\nเวอร์ชั่นไฟล์:7",
+\n\nเวอร์ชั่นไฟล์:8",
 "title":"New Update File" ,
-   "version":7
+   "version":8
 }
