@@ -40,13 +40,28 @@
       }
 ,
 {
-         "name": "VIP-BANGMOD-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-BANGMOD-DTAC.ovpn"
+         "name": "FREE-BANGMOD-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-BANGMOD-DTAC.ovpn"
       }
 ,
 {
-         "name": "VIP-BANGMOD-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-BANGMOD-TRUE.ovpn"
+         "name": "FREE-BANGMOD-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-BANGMOD-TRUE.ovpn"
+      }
+,
+{
+         "name": "VIP-OPENLAND-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-OPENLAND-AIS.ovpn"
+      }
+,
+{
+         "name": "VIP-OPENLAND-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-OPENLAND-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-OPENLAND-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-OPENLAND-TRUE.ovpn"
       }
 ,
 {
@@ -83,13 +98,13 @@
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 16-03-2023
+ 🆙 อัพเดท วันที่ 24-03-2023
 
-📌เพิ่มเซริฟ Free TH-SG ( ฟรี )
-📌เพิ่มเซริฟ VIP BANGMOD TH
+📌อัพเดทเซริฟ Free TH-SG ( ฟรี )
+📌เพิ่มเซริฟ VIP OPENLAND TH
 
 🔥[ มีบริการเช่าเน็ต VIP นะครับ ]🔥
-   🙀 ราคาเพียงวันละ 1.50 บาท
+   🙀 ราคาเพียงวันละ 1.25 บาท
 📌สายเกมส์📱 📌สายประหยัด 💸
        🙏 ยินดีให้บริการครับ 🙏
 
@@ -105,7 +120,8 @@
  
 
 
-\n\nเวอร์ชั่นไฟล์:9",
+\n\nเวอร์ชั่นไฟล์:10",
 "title":"New Update File" ,
-   "version":9
+   "version":10
 }
+
