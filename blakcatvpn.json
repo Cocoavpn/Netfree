@@ -25,13 +25,33 @@
       }
 ,
 {
-         "name": "FREE-BANGMOD-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-BANGMOD-DTAC.ovpn"
+         "name": "FREE-01-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-BANGMOD-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-BANGMOD-TRUE.ovpn"
+         "name": "FREE-01-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-01-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-02-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-02-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-02-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-TRUE.ovpn"
       }
 ,
 {
@@ -83,16 +103,14 @@
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 03-04-2023
+ 🆙 อัพเดท วันที่ 06-04-2023
 
 📌อัพเดทเซริฟ Free TH ( สายเกมส์)
-📌อัพเซริฟ VIP OPENLAND ( ใหม่ )
-⚠️ ทุกเซริฟเวอร์สร้างมาจาก VPS ความเร็วสูง
+📌อัพเดทเซริฟ Free 01-02 ( ใหม่ )
 
  👑 มีบริการเช่าเน็ต VIP 👑  
     🐻 Cocoa VPN 🐻 
-🙀ราคาเพียงวันละ 1.25 บาท🙀 
-♦️ดูแลตลอดอายุการใช้งาน♦️
+🙀ราคาเพียงวันละ 1.25 บาท🙀 ♦️ดูแลตลอดอายุการใช้งาน♦️
 
           ❗ หมายเหตุ❗
 
@@ -102,7 +120,7 @@
  
 
 
-\n\nเวอร์ชั่นไฟล์:13",
+\n\nเวอร์ชั่นไฟล์:14",
 "title":"New Update File" ,
-   "version":13
+   "version":14
 }
