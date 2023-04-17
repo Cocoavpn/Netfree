@@ -6,52 +6,37 @@
 {
      
  "name":
-"FREE-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TH-AIS.ovpn"
+"FREE-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-TH-AIS.ovpn"
       }
 ,
 {
       
   "name":
-"FREE-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TH-DATC.ovpn"
+"FREE-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-TH-DTAC.ovpn"
       }
 ,
 {
         
  "name":
-"FREE-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TH-TRUE.ovpn"
+"FREE-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-TH-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-01-AIS",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-AIS.ovpn"
+         "name": "FREE-02-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-01-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-DTAC.ovpn"
+         "name": "FREE-02-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-01-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-01-TRUE.ovpn"
-      }
-,
-{
-         "name": "FREE-02-AIS",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-AIS.ovpn"
-      }
-,
-{
-         "name": "FREE-02-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-DTAC.ovpn"
-      }
-,
-{
-         "name": "FREE-02-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-TRUE.ovpn"
+         "name": "FREE-02-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-02-TH-TRUE.ovpn"
       }
 ,
 {
@@ -103,13 +88,15 @@
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 10-04-2023
+ 🆙 อัพเดท วันที่ 18-04-2023
 
+⚠️รีเซริฟเวอร์เวลา 11.00 น. ทุกวัน
 📌อัพเดทเซริฟ Free TH ( สายเกมส์)
-📌อัพเดทเซริฟ Free 01-02 ( ใหม่ )
+📌อัพเดท  VIP-OpenLand ( ใหม่ )
+⚠️รีเซริฟเวอร์เวลา 11.00 น. ทุกวัน
 
  👑 มีบริการเช่าเน็ต VIP 👑  
-    🐻 Cocoa VPN 🐻 
+    🐻 Cocoa VIP 🐻 
 🙀ราคาเพียงวันละ 1.25 บาท🙀 
 ♦️ดูแลตลอดอายุการใช้งาน♦️
 
@@ -121,7 +108,7 @@
  
 
 
-\n\nเวอร์ชั่นไฟล์:15",
+\n\nเวอร์ชั่นไฟล์:16",
 "title":"New Update File" ,
-   "version":15
+   "version":16
 }
