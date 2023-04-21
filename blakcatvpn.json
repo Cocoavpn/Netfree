@@ -40,49 +40,48 @@
       }
 ,
 {
-         "name": "VIP-ZCOM01-AIS",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM01-TH-AIS.ovpn"
+         "name": "VIP-ZCOM-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM-AIS.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM01-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM01-TH-DTAC.ovpn"
+         "name": "VIP-ZCOM-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM-DTAC.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM01-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM01-TH-TRUE.ovpn"
+         "name": "VIP-ZCOM-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM-TRUE.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM02-AIS",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM02-TH-AIS.ovpn"
+         "name": "FREE-GAME-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-GAME-AIS.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM02-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM02-TH-DTAC.ovpn"
+         "name": "FREE-GAME-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-GAME-DTAC.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM02-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM02-TH-TRUE.ovpn"
+         "name": "FREE-GAME-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-GAME-TRUE.ovpn"
       }
 
 
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 19-04-2023
+ 🆙 อัพเดท วันที่ 21-04-2023
+⚠️รีเซริฟเวอร์เวลา 11.00 น. ทุกวัน
 
-⚠️รีเซริฟเวอร์เวลา 11.00 น. ทุกวัน
-📌อัพเดทเซริฟ Free TH ( สายเกมส์)
-📌อัพเดท  VIP-OpenLand ( ใหม่ )
-⚠️รีเซริฟเวอร์เวลา 11.00 น. ทุกวัน
+📌อัพเดท Free GAME( สายเกมส์)
+📌อัพเดท  VIP-ZCOM ( ใหม่ )
 
  👑 มีบริการเช่าเน็ต VIP 👑  
-    🐻 Cocoa VIP 🐻 
-🙀ราคาเพียงวันละ 1.25 บาท🙀 
+     🐻 Cocoa VIP 🐻 
+🙀ราคาเพียงวันละ 1.25 บาท
 ♦️ดูแลตลอดอายุการใช้งาน♦️
 
           ❗ หมายเหตุ❗
@@ -90,10 +89,11 @@
  ⚠️ติดปัญหาอะไรหรือสนใจเช่าเน็ต VIP สามารถติดต่อ-สอบถาม แอดมินได้ครับ 
 📣กดที่รูป VIP หรือว่าเมสเสจเจอร์ภายในแอพได้เลยครับ
   🌎ขอให้สนุกกับการใช้งาน🌎
+⚠️รีเซริฟเวอร์เวลา 11.00 น. ทุกวัน
  
 
 
-\n\nเวอร์ชั่นไฟล์:17",
+\n\nเวอร์ชั่นไฟล์:18",
 "title":"New Update File" ,
-   "version":17
+   "version":18
 }
