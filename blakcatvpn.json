@@ -68,19 +68,33 @@
          "name": "FREE-GAME-TRUE",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-GAME-TRUE.ovpn"
       }
-
+,
+{
+         "name": "VIP-GAME-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-GAME-AIS.ovpn"
+      }
+,
+{
+         "name": "VIP-GAME-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-GAME-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-GAME-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-GAME-TRUE.ovpn"
+      }
 
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 26-04-2023
+ 🆙 อัพเดท วันที่ 28-04-2023
 
-📌อัพเดท Free GAME ( สายเกมส์)
-📌อัพเดท Free TH ( โซเชียล)
+📌อัพเดท TH-GAME ( สายเกมส์ )
+📌อัพเดท TH-Zcom ( เล่นเกมส์ )
 
  👑 มีบริการเช่าเน็ต VIP 👑  
      🐻 Cocoa VIP 🐻 
-🙀ราคาเพียงวันละ 1.25 บาท
+🙀ราคาเพียงวันละ 1 บาท
 ♦️ดูแลตลอดอายุการใช้งาน♦️
 ✅ : ดูหนัง ฟังเพลง ดูยูทูป ดูติกตอกเลือนๆ
 ✅ : เล่น เกมส์ได้ ปิงต่ำและแรงทันใจ
@@ -91,7 +105,7 @@
   🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:19",
+\n\nเวอร์ชั่นไฟล์:20",
 "title":"New Update File" ,
-   "version":19
+   "version":20
 }
