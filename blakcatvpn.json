@@ -40,18 +40,18 @@
       }
 ,
 {
-         "name": "VIP-ZCOM-AIS",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM-AIS.ovpn"
+         "name": "CS-LOXINFO-GAME-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/CS-LOXINFO-GAME-AIS.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM-DTAC.ovpn"
+         "name": "CS-LOXINFO-GAME-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/CS-LOXINFO-GAME-DTAC.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-ZCOM-TRUE.ovpn"
+         "name": "CS-LOXINFO-GAME-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/CS-LOXINFO-GAME-TRUE.ovpn"
       }
 ,
 {
@@ -87,8 +87,8 @@
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 28-04-2023
-📌อัพเดท TH-Zcom ( เล่นเกมส์ )
+ 🆙 อัพเดท วันที่ 02-05-2023
+📌อัพเดท CS-LOXINFO-GAME ( เล่นเกมส์ )
 
  👑 มีบริการเช่าเน็ต VIP 👑  
      🐻 Cocoa VIP 🐻 
@@ -106,7 +106,7 @@
   🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:21",
+\n\nเวอร์ชั่นไฟล์:22",
 "title":"New Update File" ,
-   "version":21
+   "version":22
 }
