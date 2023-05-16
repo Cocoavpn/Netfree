@@ -4,6 +4,38 @@
 
 
 {
+
+         "name": "VIP-Cocoa.Gamer-AIS",
+
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-Cocoa.Gamer-AIS.ovpn"
+
+      }
+
+,
+
+{
+
+         "name": "VIP-Cocoa.Gamer-DATC",
+
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-Cocoa.Gamer-DACT.ovpn"
+
+      }
+
+,
+
+{
+
+         "name": "VIP-Cocoa.Gamer-TRUE",
+
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-Cocoa.Gamer-TRUE.ovpn"
+
+      }
+
+,
+
+
+
+{
      
  "name":
 "FREE-TH-AIS",
@@ -87,8 +119,8 @@
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 05-05-2023
-📌อัพเดทCocoa.VIP-GAME.TH
+ 🆙 อัพเดท วันที่ 16-05-2023
+📌อัพเดท VIP-Cocoa.Gamer
 ( เล่นเกมส์ปิงต่ำ และเน็ตแรง )
 📌อัพเดท Cocoa.VIP-TH
  ( ดูหนัง ดูติกตอก ไม่มีติด )
@@ -107,7 +139,7 @@
   🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:23",
+\n\nเวอร์ชั่นไฟล์:24",
 "title":"New Update File" ,
-   "version":23
+   "version":24
 }
