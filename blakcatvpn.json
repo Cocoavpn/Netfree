@@ -34,7 +34,6 @@
 ,
 
 
-
 {
      
  "name":
@@ -72,18 +71,18 @@
       }
 ,
 {
-         "name": "Cocoa.VIP-GAME.TH-AIS",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/Cocoa.VIP-GAME.TH-AIS.ovpn"
+         "name": "VIP.Cocoa-Ready.IDC-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP.Cocoa-Ready.IDC-AIS.ovpn"
       }
 ,
 {
-         "name": "Cocoa.VIP-GAME.TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/Cocoa.VIP-GAME.TH-DTAC.ovpn"
+         "name": "VIP.Cocoa-Ready.IDC-DTAC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP.Cocoa-Ready.IDC-DTAC.ovpn"
       }
 ,
 {
-         "name": "Cocoa.VIP-GAME.TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/Cocoa.VIP-GAME.TH-TRUE.ovpn"
+         "name": "VIP.Cocoa-Ready.IDC-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP.Cocoa-Ready.IDC-TRUE.ovpn"
       }
 ,
 {
@@ -119,8 +118,8 @@
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 16-05-2023
-📌อัพเดท VIP-Cocoa.Gamer
+ 🆙 อัพเดท วันที่ 20-05-2023
+📌อัพเดท VIP.Cocoa-Ready.IDC
 ( เล่นเกมส์ปิงต่ำ และเน็ตแรง )
 📌อัพเดท Cocoa.VIP-TH
  ( ดูหนัง ดูติกตอก ไม่มีติด )
@@ -139,7 +138,7 @@
   🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:24",
+\n\nเวอร์ชั่นไฟล์:25",
 "title":"New Update File" ,
-   "version":24
+   "version":25
 }
