@@ -1,55 +1,34 @@
 {
    "files": [    
 
-
-
 {
-
-         "name": "VIP-Cocoa.Gamer-AIS",
-
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-Cocoa.Gamer-AIS.ovpn"
-
+         "name": "Cocoa.VIP-Gamer.TH-AIS",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/Cocoa.VIP-GAME.TH-AIS.ovpn"
       }
-
 ,
-
 {
-
-         "name": "VIP-Cocoa.Gamer-DATC",
-
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-Cocoa.Gamer-DACT.ovpn"
-
+         "name": "Cocoa.VIP-Gamer.TH-DATC",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/Cocoa.VIP-GAME.TH-DTAC.ovpn"
       }
-
 ,
-
 {
-
-         "name": "VIP-Cocoa.Gamer-TRUE",
-
-         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/VIP-Cocoa.Gamer-TRUE.ovpn"
-
+         "name": "Cocoa.VIP-Gamer.TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/Cocoa.VIP-GAME.TH-TRUE.ovpn"
       }
-
 ,
-
-
 {
-     
  "name":
 "FREE-TH-AIS",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TH-AIS.ovpn"
       }
 ,
 {
-      
   "name":
 "FREE-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TH-DTAC.ovpn"
       }
 ,
 {
-        
  "name":
 "FREE-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Cocoavpn/Netfree/main/FREE-TH-TRUE.ovpn"
@@ -118,15 +97,15 @@
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 20-05-2023
+ 🆙 อัพเดท วันที่ 23-05-2023
 📌อัพเดท VIP.Cocoa-Ready.IDC
-( เล่นเกมส์ปิงต่ำ และเน็ตแรง )
-📌อัพเดท Cocoa.VIP-TH
- ( ดูหนัง ดูติกตอก ไม่มีติด )
+( ดูหนัง ดูติกตอก ดูยุทุปชัด )
+📌อัพเดท Cocoa.VIP-Game.TH
+ ( เล่นเกมส์ปิงต่ำและเน็ตแรง )
 
  👑 มีบริการเช่าเน็ต VIP 👑  
    🐻 Cocoa VIP 🐻 
-🙀ราคาเพียงวันละ 1 บาท🙀
+🙀ราคาเพียงวันละ 1.50 บาท🙀
 ♦️ดูแลตลอดอายุการใช้งาน♦️
 
 ✅ : ดูหนัง ฟังเพลง ดูยูทูป ดูติกตอกไม่มีติด
@@ -138,7 +117,7 @@
   🌎ขอให้สนุกกับการใช้งาน🌎
 
 
-\n\nเวอร์ชั่นไฟล์:25",
+\n\nเวอร์ชั่นไฟล์:26",
 "title":"New Update File" ,
-   "version":25
+   "version":26
 }
